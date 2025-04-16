@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on protein protein interactions using molecular dynamics
+- 🌱 I’m currently learning to use github lol
+- 👯 I’m looking to collaborate on AI inspired technology applied to biological systems
+- 🤔 I’m looking for help with finding a new job...
+- 💬 Ask me about cats 
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: this will never be read by anyone and if you are here - why ?
+
 <!--
 **llisabere/llisabere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
