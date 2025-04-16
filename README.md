@@ -8,6 +8,8 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: this will never be read by anyone and if you are here - why ?
 
+![Image of cartoon black cat](https://gifdb.com/images/high/angry-black-cat-cartoon-oftm3bpqu6awsdtr.gif)
+
 <!--
 **llisabere/llisabere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
